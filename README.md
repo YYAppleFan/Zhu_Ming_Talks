@@ -1,6 +1,6 @@
 <h1 align="center">朱明语录</h1>
   
-<p align="center">自庆丰七年二月初二更新</p>
+<p align="center">自大明六百五十二年二月初二更新</p>
 
 # “上课”
 **“上（sāng）课！”——朱明**
