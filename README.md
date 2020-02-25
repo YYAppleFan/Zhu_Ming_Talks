@@ -2,6 +2,8 @@
   
 <p align="center">自大明六百五十二年二月初二更新</p>
 
+![@xy 手绘版本](https://raw.githubusercontent.com/YYAppleFan/Zhu_Ming_Talks/master/xy%E6%89%8B%E7%BB%98.jpg)
+
 # “上课”
 **“上（sāng）课！”——朱明**
 
